@@ -201,5 +201,5 @@ Select *
 From PortfolioProject.Cleaning.NashvilleHousing
 
 
-ALTER TABLE PortfolioProject.dbo.NashvilleHousing
+ALTER TABLE PortfolioProject.Cleaning.NashvilleHousing
 DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate
